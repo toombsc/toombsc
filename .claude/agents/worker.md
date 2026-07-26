@@ -1,7 +1,7 @@
 ---
 name: worker
 description: Handles routine, fully specified edits and lookups. Use for straightforward file changes, find-and-replace, data lookups, renaming, reformatting, and other self-contained tasks that don't need creative judgment.
-model: sonnet
+model: sonnet 4.6
 effort: low
 tools: Read, Grep, Glob, Bash, Edit, Write
 ---
