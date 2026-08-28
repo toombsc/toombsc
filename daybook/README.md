@@ -56,3 +56,15 @@ features, edit its entry in `observances.js` and re-run `python3 build.py`.
 
 Feb 29 has its own square. Landing on it from a saved chip in a non-leap year
 jumps to the next leap year so the date stays real.
+
+## Publishing
+
+`.github/workflows/pages.yml` deploys this folder to GitHub Pages on every push
+to `main` that touches `daybook/`. Only `daybook/` is uploaded, so the app sits at
+the site root:
+
+**https://toombsc.github.io/toombsc/**
+
+The workflow enables Pages itself on its first run. If that step fails on
+permissions, set **Settings → Pages → Source** to **GitHub Actions** once and
+re-run it.
