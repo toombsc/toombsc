@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @toombsc
 - 👀 I’m interested in building engagement and project management systems.
 - 🌱 I’m currently learning database design
-- 💞️ I’m looking to collaborate
+- 🔗 www.carrietrobinson.com
 - 📫 How to reach me: carrietrobinson@icloud.com
 
 <!---
