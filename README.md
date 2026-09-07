@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @toombsc
+- 👋 Hi, I’m Carrie Robinson.
 - 👀 I’m interested in building engagement and project management systems.
 - 🌱 I’m currently learning database design
 - 🔗 www.carrietrobinson.com
